@@ -1,7 +1,8 @@
 * {
     text-align: justify;
-    color: #F9B742;
+    color: white;
 }
+/* styles for header section */
 ul {
     list-style-type:none;
 }
@@ -10,7 +11,7 @@ ul {
     background-size: 250px 150px;
     background-position-x: 45ch;
     overflow: hidden;
-    color: #F9B742;
+    color: white;
 }
 .nav-list {
     font-family: Arial, Helvetica, sans-serif;;
@@ -22,6 +23,7 @@ hr.nav-divider {
     border: none;
     margin-bottom: 0%;
 }
+/* styles for main content */
 main {
     background-size: cover;
     height: 100%;
@@ -39,10 +41,10 @@ img.img-me {
     padding: 3px;
 }
 h1 {
-    color: #FFFF00;
+    color: white;
 }
 .intro {
-    color: #FFFF00;
+    color: white;
     margin-left: 3%;
     margin-right: 3%;
     font-family: Arial, Helvetica, sans-serif;
@@ -56,6 +58,7 @@ article {
     margin-right: 3%;
     font-family: Arial, Helvetica, sans-serif;
 }
+/* styles for footer and outside links */
 footer.outside-links {
     font-family: Arial, Helvetica, sans-serif;
     border-style: solid;
@@ -70,8 +73,9 @@ footer.outside-links {
     background-color: #940404;
     overflow: hidden;
 }
+/* styles for all links */
 a:link {
-    color:#4078c0;
+    color:white;
 }
 a:visited {
     color:#6cc644;
@@ -79,9 +83,10 @@ a:visited {
 a:hover {
     color: blue;
 }
+/* styles for return to top section */
 p.return-top {
     font-size: 20px;
-    color:black;
+    color:white;
     padding-left: 2ch;
     margin-left: 6ch;
     background-color: #CC3024;
