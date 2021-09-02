@@ -11,17 +11,19 @@ ul {
     background-size: 250px 150px;
     background-position-x: 45ch;
     overflow: hidden;
-    color: white;
+
 }
 .nav-list {
     font-family: Arial, Helvetica, sans-serif;;
 }
 h3.topnav {
     margin-left: 3%;
+    font-size: 25px;
 }
 hr.nav-divider {
     border: none;
     margin-bottom: 0%;
+    color: white;
 }
 /* styles for main content */
 main {
@@ -51,7 +53,7 @@ h1 {
 }
 .web-description {
     padding: 0%;
-    margin-top: -2%;
+    margin-top: -1%;
 }
 article {
     margin-left: 3%;
@@ -75,10 +77,10 @@ footer.outside-links {
 }
 /* styles for all links */
 a:link {
-    color:white;
+    color:black;
 }
 a:visited {
-    color:#6cc644;
+    color:purple;
 }
 a:hover {
     color: blue;
