@@ -8,10 +8,9 @@ ul {
 }
 .topnav {
     background-image: url("spqr.png");
-    background-size: 250px 150px;
+    background-size: 250px 140px;
     background-position-x: 45ch;
     overflow: hidden;
-
 }
 .nav-list {
     font-family: Arial, Helvetica, sans-serif;;
