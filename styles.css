@@ -1,0 +1,91 @@
+* {
+    text-align: justify;
+    color: #F9B742;
+}
+ul {
+    list-style-type:none;
+}
+.topnav {
+    background-image: url("spqr.png");
+    background-size: 250px 150px;
+    background-position-x: 45ch;
+    overflow: hidden;
+    color: #F9B742;
+}
+.nav-list {
+    font-family: Arial, Helvetica, sans-serif;;
+}
+h3.topnav {
+    margin-left: 3%;
+}
+hr.nav-divider {
+    border: none;
+    margin-bottom: 0%;
+}
+main {
+    background-size: cover;
+    height: 100%;
+    background-color: #940404;
+    border: none;
+    margin-bottom: -1.1%;
+    margin-top: 0%;
+    margin-block-end: 0ch;
+    padding: 5ch;
+}
+img.img-me {
+    height: 200px;
+    border-radius: 50%;
+    border: 6px solid #F9B742;
+    padding: 3px;
+}
+h1 {
+    color: #FFFF00;
+}
+.intro {
+    color: #FFFF00;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.web-description {
+    padding: 0%;
+    margin-top: -2%;
+}
+article {
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer.outside-links {
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-left: 3ch solid #CC3024;
+    border-right: 3ch solid #CC3024;
+    border-top: .3ch solid #CC3024;
+    border-bottom: 1ch solid #CC3024;
+}
+.outside-links {
+    padding: 2ch;
+    border: none;
+    background-color: #940404;
+    overflow: hidden;
+}
+a:link {
+    color:#4078c0;
+}
+a:visited {
+    color:#6cc644;
+}
+a:hover {
+    color: blue;
+}
+p.return-top {
+    font-size: 20px;
+    color:black;
+    padding-left: 2ch;
+    margin-left: 6ch;
+    background-color: #CC3024;
+    margin-right: 6ch;
+    margin-block-end: 0ch;
+    margin-top: 0%;
+}
